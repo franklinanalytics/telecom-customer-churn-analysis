@@ -66,11 +66,3 @@ Offer discounts or loyalty rewards to high-paying customers.
 
 Implement targeted retention strategies for customers with short tenure.
 
-## 6. Next Steps
-
-Perform predictive modeling to classify customers likely to churn.
-
-Develop customer retention strategies based on identified patterns.
-
-Publish findings and code on GitHub for portfolio showcasing.
-
